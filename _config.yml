@@ -1,9 +1,8 @@
 title: Cameron Makin
 email: cameronmakin123@gmail.com
 instagram_username: cameron.makin
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cameronmakin.com" # the base hostname & protocol for your site, e.g. http://example.co
-landingpage: "/projects"
+baseurl: ""
+url: "http://cameronmakin.com"
 
 # Build settings
 markdown: kramdown
