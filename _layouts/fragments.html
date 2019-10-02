@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="fragments">
+  {%- if page.title -%}
+    <h2 class="page-heading">{{ page.title }}</h2>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.fragments.size > 0 -%}
+    <ul class="post-list">
+      {% assign sorted_fragments = site.fragments | sort: "date" | reverse %}
+      {%- for post in sorted_fragments -%}
+        <li>
+          {%- assign date_format = "%d/%m/%Y %H:%M" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          {{ post.content }}
+        </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>
