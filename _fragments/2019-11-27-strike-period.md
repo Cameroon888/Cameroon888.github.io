@@ -6,6 +6,6 @@ date: 2019-11-27 02:23
 ---
 
 <iframe src="https://player.vimeo.com/video/375817939" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/375817939">Strike Period</a> from <a href="https://vimeo.com/user94371105">Cameron Makin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 Yes I got Premiere - how did you guess?
