@@ -11,7 +11,7 @@ layout: default
 
   {%- if site.references.size > 0 -%}
     <ul class="post-list">
-      {%- for post in site.references -%}
+      {%- for post in site.references reversed -%}
         <li>
           {{ post.content }}
         </li>
