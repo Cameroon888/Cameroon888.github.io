@@ -4,4 +4,6 @@ title: "Maxi Challenge"
 date: 2021-06-10 13:46
 
 ---
-![vista](/images/maxi-challenge.jpg)
+![maxi-challenge](/images/maxi-challenge.jpg)
+
+More Mercy (!)
