@@ -4,4 +4,4 @@ title: "London Snow"
 date: 2021-01-29 10:41
 
 ---
-![vista](/images/fragments/london-snow.JPG)
+![vista](/images/fragments/london-snow.JPG){:height="500"}
