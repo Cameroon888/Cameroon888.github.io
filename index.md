@@ -3,7 +3,7 @@ layout: home
 title: Welcome!
 ---
 
-My name is Cameron and I'm a student/filmmaker based in London.
+My name is Cameron and I'm a filmmaker based in London.
 
 I created this site in the hope of sharing the things I am currently working on and archiving my past work in a way that gives you an intimate understanding of who I am, and what goes into the films I make.
 
