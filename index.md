@@ -9,6 +9,6 @@ I created this site with the hope of sharing what I'm currently working on and a
 
 There are past projects here and fragments of current projects that may or may not amount to anything, as well as some references that I think are interesting and fun.
 
-Unless I make some kind of mistake, I will never take anything down from this site. I'd like to be as honest as possible about my creative process, and show that not everything I make is - or has to be - particularly good. I'm always trying things out, and this website should reflect that.
+Unless I make some kind of mistake, I will never take anything down from this site. I'd like to be as honest as possible about my creative process, and show that not everything I make is - or has to be - particularly good. I'm only ever trying things out, and this website should reflect that.
 
 Look around as much as you'd like x
