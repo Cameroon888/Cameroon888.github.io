@@ -2,7 +2,7 @@
 layout: post
 title: "That Travis - In the Vastness of Landscape, Whatever Matters (2024)"
 date: 2024-05-03 00:01
-thumbnail: /images/projects/that-travis-whatever.jpg
+thumbnail: /images/projects/that-travis-whatever.jpeg
 author:
 ---
 
