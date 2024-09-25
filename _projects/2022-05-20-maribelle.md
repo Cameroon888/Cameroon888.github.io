@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maribelle (2022)"
+title: "Maribelle"
 date: 2022-05-20 10:24
 thumbnail: /images/projects/maribelle-laurels.JPG
 author:
