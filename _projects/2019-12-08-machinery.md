@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Machinery (2019)"
+title: "Machinery"
 date: 2019-12-08 09:27
 thumbnail: /images/projects/machinery-poster.png
 author:
