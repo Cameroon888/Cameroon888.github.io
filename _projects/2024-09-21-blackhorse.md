@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blackhorse Workshop: 10 Years of Making it Together"
+title: "Blackhorse Workshop: 10 Years of Making It Together"
 date: 2024-09-21 11:46
 thumbnail: /images/projects/blackhorse.png
 author:
