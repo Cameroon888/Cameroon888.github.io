@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Driftwood (2022)"
+title: "Driftwood"
 date: 2022-09-11 12:00
 thumbnail: /images/projects/Driftwood_final_1.png
 author:
