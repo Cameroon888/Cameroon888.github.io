@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stone and Water (2022)"
+title: "Stone and Water"
 date: 2022-09-13 12:00
 thumbnail: /images/projects/Stone_and_water_final_EDITED.jpg
 author:
