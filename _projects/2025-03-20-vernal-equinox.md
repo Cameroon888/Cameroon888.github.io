@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vernal Equinox"
-date: 2025-06-22 19:11
+date: 2025-03-20 19:11
 thumbnail: /images/projects/vernal-equinox.jpg
 author:
 ---
