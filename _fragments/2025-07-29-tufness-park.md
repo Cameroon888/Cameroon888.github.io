@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Tufnell Park"
+title: "Tufness Park"
 date: 2025-07-29 17:31
 
 ---
-![tufnell-park](/images/fragments/tufnell-park.jpg)
+![tufness-park](/images/fragments/tufness-park.jpg)
