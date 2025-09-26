@@ -4,6 +4,6 @@ title: "JellyStar"
 date: 2025-09-26 17:26
 
 ---
-![jellystar](/images/fragments/jellystar.jpg)
+![jellystar](/images/fragments/jellystar.jpeg)
 
 New rubbish mobile as well for me.
